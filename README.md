@@ -66,12 +66,6 @@ The notebook includes:
 - Heatmap of elasticity by category × season
 - Scatter plot of discount % vs. sales lift %
 
-## How to Run
-
-1. Download the dataset from the [Kaggle link above](https://www.kaggle.com/datasets/arbaaztamboli/retail-markdown-optimization-discounts-and-sales)
-2. Open 'Markdown_Pricing_Analysis.ipynb' in [Google Colab](https://colab.research.google.com)
-3. Upload the dataset CSV when prompted
-4. Run all cells 
 
 ## References
 
